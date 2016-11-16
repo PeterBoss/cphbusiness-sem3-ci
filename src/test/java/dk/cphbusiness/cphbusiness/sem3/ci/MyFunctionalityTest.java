@@ -8,7 +8,7 @@ import org.junit.Test;
  * @author jens
  */
 public class MyFunctionalityTest {
-    //test
+
     @Test
     public void testFunctionality() {
         assertEquals(10, MyFunctionality.giveMeTen());
